@@ -48,3 +48,5 @@ Developed an interactive dashboard using Microsoft Excel to analyze road acciden
 
 ## 💡 Conclusion
 The dashboard provides clear visibility into accident patterns and risk factors, helping stakeholders identify high-risk zones and prioritize safety measures effectively.
+
+<img width="1307" height="631" alt="Screenshot 2026-04-25 123908" src="https://github.com/user-attachments/assets/301fd5e0-23d1-491e-a84f-77d40e887537" />
