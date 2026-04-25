@@ -1,11 +1,11 @@
-# 🚗 Road Accident Data Analysis Dashboard (Excel)
+#  Road Accident Data Analysis Dashboard (Excel)
 
-## 📌 Project Overview
+##  Project Overview
 Developed an interactive dashboard using Microsoft Excel to analyze road accident data and uncover key trends, risk factors, and patterns. The project transforms raw datasets into actionable insights to support data-driven decision-making for road safety improvements.
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 - Designed an interactive dashboard to visualize accident trends and KPIs  
 - Built dynamic summaries using Pivot Tables and Pivot Charts  
 - Implemented advanced filtering with slicers (region, time, road conditions)  
@@ -13,7 +13,7 @@ Developed an interactive dashboard using Microsoft Excel to analyze road acciden
 
 ---
 
-## 🛠️ Tools & Techniques
+##  Tools & Techniques
 - **Tool:** Microsoft Excel  
 - **Data Processing:** Pivot Tables, Data Cleaning  
 - **Visualization:** Pivot Charts, Conditional Formatting  
@@ -21,7 +21,7 @@ Developed an interactive dashboard using Microsoft Excel to analyze road acciden
 
 ---
 
-## 📊 Dataset Details
+##  Dataset Details
 - **Temporal:** Accident date, Day vs Night analysis  
 - **Environmental:** Road type, surface condition, urban/rural  
 - **Severity:** Fatal, Serious, Slight casualties  
@@ -29,7 +29,7 @@ Developed an interactive dashboard using Microsoft Excel to analyze road acciden
 
 ---
 
-## 📈 Key Metrics (KPIs)
+##  Key Metrics (KPIs)
 - **Total Casualties:** 417,883  
 - **Fatal:** 7,135 (1.7%)  
 - **Serious:** 59,312 (14.2%)  
@@ -38,7 +38,7 @@ Developed an interactive dashboard using Microsoft Excel to analyze road acciden
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 - Majority of accidents result in slight injuries (84%)  
 - Cars are involved in nearly 80% of casualties  
 - Single carriageway roads show higher accident risk  
@@ -46,7 +46,7 @@ Developed an interactive dashboard using Microsoft Excel to analyze road acciden
 
 ---
 
-## 💡 Conclusion
+##  Conclusion
 The dashboard provides clear visibility into accident patterns and risk factors, helping stakeholders identify high-risk zones and prioritize safety measures effectively.
 
 <img width="1307" height="631" alt="Screenshot 2026-04-25 123908" src="https://github.com/user-attachments/assets/301fd5e0-23d1-491e-a84f-77d40e887537" />
