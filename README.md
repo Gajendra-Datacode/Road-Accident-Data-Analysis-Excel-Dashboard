@@ -4,7 +4,11 @@
 Developed an interactive dashboard using Microsoft Excel to analyze road accident data and uncover key trends, risk factors, and patterns. The project transforms raw datasets into actionable insights to support data-driven decision-making for road safety improvements.
 
 ---
+##  Project Resources
 
+-  Source Code: [Open Notebook](https://drive.google.com/drive/folders/1-cAeiWcxfTJWtX5uV10UMMT4Okbvjr3u?usp=drive_link)
+
+---
 ##  Key Features
 - Designed an interactive dashboard to visualize accident trends and KPIs  
 - Built dynamic summaries using Pivot Tables and Pivot Charts  
